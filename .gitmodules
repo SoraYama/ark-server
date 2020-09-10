@@ -1,0 +1,3 @@
+[submodule "app/assets/gameData"]
+	path = app/assets/gameData
+	url = https://hub.fastgit.org/Kengxxiao/ArknightsGameData.git
